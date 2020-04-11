@@ -7,7 +7,7 @@ module.exports = {
 		"plugin:prettier/recommended",
 	],
 	// eslint-plugin-prettier is a plugin that adds a rule that formats content using Prettier
-	plugins: ["prettier"],
+	plugins: ["prettier", "@typescript-eslint"],
 	parserOptions: {
 		ecmaVersion: 11,
 		// script | module
