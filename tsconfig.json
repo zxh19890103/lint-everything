@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"lib": [
+			"ESNext",
+			"scripthost",
+			"DOM",
+			"DOM.Iterable"
+		],
+		"target": "es6",
+		"module": "ESNext",
+		"allowJs": false,
+		"outDir": "./tsout",
+	},
+	"include": [
+		"./**/*.ts"
+	],
+	"typeAcquisition": {
+		"enable": false
+	}
+}

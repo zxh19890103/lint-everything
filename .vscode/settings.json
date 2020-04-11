@@ -1,0 +1,12 @@
+{
+	"workbench.editor.showTabs": false,
+	"typescript.tsdk": "./node_modules/typescript/lib",
+	"editor.formatOnSave": true,
+	"editor.tabSize": 4,
+	"editor.tokenColorCustomizations": {
+		"semanticHighlighting": true,
+		"[Quite Light]": {
+			"semanticHighlighting": true
+		}
+	}
+}
